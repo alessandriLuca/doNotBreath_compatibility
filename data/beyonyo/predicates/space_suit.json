@@ -1,0 +1,29 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "minecraft:player",
+    "equipment": {
+      "head": {
+        "items": [
+          "beyond_earth:oxygen_mask"
+        ]
+      },
+      "chest": {
+        "items": [
+          "beyond_earth:space_suit"
+        ]
+      },
+      "legs": {
+        "items": [
+          "beyond_earth:space_pants"
+        ]
+      },
+      "feet": {
+        "items": [
+          "beyond_earth:space_boots"
+        ]
+      }
+    }
+  }
+}
